@@ -70,13 +70,27 @@
 
 // 5. Ixtiyoriy harf berilganda uning unli yoki undosh ekanini aniqlovchi algoritm yozing
 
-// let word = "p";
-// let unli = "a, e, i, u, o"
+// let word = "m";
+// let res = '';
 
-// if (word == unli) {
-//     res = "undosh harf"
-// } else{
+// let Aharfi = "a";
+// let Eharfi = "e";
+// let Uharfi = "u";
+// let Iharfi = "i";
+// let Oharfi = "o";
+
+// if (word == Aharfi) {
 //     res = "unli harf"
+// } else if (word == Eharfi) {
+//     res = "unli harf"
+// } else if (word == Uharfi) {
+//     res = "unli harf"
+// } else if (word == Iharfi) {
+//     res = "unli harf"
+// }  else if (word == Oharfi) {
+//     res = "unli harf"
+// } else {
+//     res = "undosh harf"
 // }
 
 // console.log(res);
